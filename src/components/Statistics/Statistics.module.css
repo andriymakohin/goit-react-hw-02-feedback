@@ -1,7 +1,10 @@
+.status {
+    display: flex;
+    justify-content: center;
+}
 .good {
     font-weight: 400;
     font-size: 25px;
-    margin: 20px auto;
     color: wheat;
     background-color: green;
     width: 100px;
@@ -11,7 +14,7 @@
 .neutral {
     font-weight: 400;
     font-size: 25px;
-    margin: 20px auto;
+    margin: 0 10px 0 10px;
     color: wheat;
     background-color: rgb(128, 94, 0);
     width: 120px;
@@ -21,7 +24,6 @@
 .bad {
     font-weight: 400;
     font-size: 25px;
-    margin: 20px auto;
     color: wheat;
     background-color: rgb(128, 9, 0);
     width: 100px;
