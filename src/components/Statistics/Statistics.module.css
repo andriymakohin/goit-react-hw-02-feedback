@@ -1,0 +1,46 @@
+.good {
+    font-weight: 400;
+    font-size: 25px;
+    margin: 20px auto;
+    color: wheat;
+    background-color: green;
+    width: 100px;
+    border-radius: 25px;
+}
+
+.neutral {
+    font-weight: 400;
+    font-size: 25px;
+    margin: 20px auto;
+    color: wheat;
+    background-color: rgb(128, 94, 0);
+    width: 120px;
+    border-radius: 25px;
+}
+
+.bad {
+    font-weight: 400;
+    font-size: 25px;
+    margin: 20px auto;
+    color: wheat;
+    background-color: rgb(128, 9, 0);
+    width: 100px;
+    border-radius: 25px;
+}
+
+.items {
+    font-weight: 800;
+    font-size: 35px;
+    color: rgb(68, 0, 255);
+    margin: 20px 0;
+}
+
+.positive {
+    font-weight: 400;
+    font-size: 25px;
+    margin: 20px auto;
+    color: wheat;
+    background-color: rgba(38, 187, 58, 0.863);
+    width: 300px;
+    border-radius: 25px;
+}

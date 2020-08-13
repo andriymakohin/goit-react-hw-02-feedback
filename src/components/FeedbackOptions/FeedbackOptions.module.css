@@ -1,0 +1,19 @@
+.feedbackBtn {
+    /* border: none; */
+    border-radius: 30%;
+    border-color: cyan;
+    margin: 20px 5px;
+    padding: 11px 29px;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 700;
+    background-color: #95e1d3;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.feedbackBtn:hover {
+    background-color: #82bb26;
+    border-color: forestgreen;
+}
